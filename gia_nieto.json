@@ -1,0 +1,79 @@
+{
+    "Name": "Gia F. Nieto",
+    "Position": "Software Engineer",
+    "Email": "nieto.gia@gmail.com",
+    "Phone": "+639238575462",
+    "Location": "1234 Asdfghjkl St., Brgy. Qwerty, Santa Maria, Bulacan, Philippines",
+    "Age": "Age: 40",
+    "Birthdate": "Birthdate: January 06,1982",
+    "Civil Status": "Civil Status: Single",
+    "Religion": "Religion: Roman Catholic",
+    "Description": ["Excellent experience of building scalable and high-performance software applications.", "Combining distinctive skills sets in Machine Learning and Full Stack Web Development in Python."],
+    "Languages": [
+        {
+            "1": "English",
+            "2": "Filipino"
+        }
+    ], 
+    "Skills": [
+        {
+            "first": "Oral Communication",
+            "second": "Fast Learner",
+            "third": "Resilience",
+            "fourth": "Versatility"
+        }
+    ],
+    "Interests": [
+        {
+            "lists": "Watching Movies and Travel"
+        }
+    ],
+    "Programming Languages": [
+        {
+            "one": "Python",
+            "two": "C++",
+            "three": "Java",
+            "four": "Javascript"
+        }
+    ],
+    "Social Media": [
+        {
+            "Network": "Network: Facebook",
+            "Username": "Username: Gia Nieto",
+            "URL": "URL: https://facebook.com/Gia_Nieto"
+        },
+        {
+            "Network": "Network: Instagram",
+            "Username": "Username: gianieto_",
+            "URL": "URL: https://instagram.com/gianieto_"
+        },
+        {
+            "Network": "Network: Twitter",
+            "Username": "Username: gianieto_",
+            "URL": "URL: https://twitter.com/gianieto_"
+        },
+        {
+            "Network": "Network: Github",
+            "Username": "Username: gianieto_",
+            "URL": "URL: https://github.com/gianieto_"
+        }
+    ],
+    "Work Experiences": [
+        {
+            "Company": "Company: Facebook",
+            "Position": "Position: Co Founder",
+            "Website": "Website: http://www.facebook.com",
+            "Start Date": "Start Date: 08-06-2015"
+        },
+        {
+            "Company": "Company: Microsoft Corp.",
+            "Position": "Position: Software Developer",
+            "Website": "Website: http://www.microsoftcorp.com",
+            "Start Date": "Start Date: 02-06-2010",
+            "End Date": "End Date: 07-01-2015"
+        }
+    ],
+    "Education": "Bachelor of Science in Computer Engineering at Polytechnic University of the Philippines (2005-2009)"
+}    
+
+    
